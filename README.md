@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Snake Dark](https://github.com/nimelnikova/nimelnikova/blob/output/dist/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Dark](https://github.com/nimelnikova/snk/blob/output/dist/github-contribution-grid-snake-dark.svg)
 
 <!--
 **nimelnikova/nimelnikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
